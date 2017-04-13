@@ -1,4 +1,4 @@
-#ADXL345 2017.1
+# ADXL345 2017.1
 
 Arduino ADXL345 accelerometer library.
 
@@ -14,7 +14,7 @@ The Adxl345 library is provided under the GPL V2 license.
 
 The example code is provided under the MIT license please use, edit, change, and share. 
 
-###Modification history
+### Modification history
 * 2017.1
 
  * Convert types to C99
